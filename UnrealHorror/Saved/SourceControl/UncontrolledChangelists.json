@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset",
+				"C:/Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
+				"C:/Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset"
+			]
+		}
+	]
+}
