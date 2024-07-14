@@ -3378,3 +3378,798 @@ Script Stack (0 frames) :
 [2024.07.14-15.23.15:422][104]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
 [2024.07.14-15.23.15:429][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
 [2024.07.14-15.23.15:454][105]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.07.14-15.23.43:888][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.07.14-15.23.43:892][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY_Auto4
+[2024.07.14-15.23.43:892][399]LogSavePackage: Moving '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Saved/DXUWD12MD3HRWVVXX076BY_Auto4A94E3AAE453546E1770B64B218037E0D.tmp' to '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY_Auto4.uasset'
+[2024.07.14-15.23.43:893][399]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.032
+[2024.07.14-15.23.43:893][399]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2024.07.14-15.23.43:894][399]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.07.14-15.23.43:951][399]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.07.14-15.23.43:951][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.07.14-15.23.43:965][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4
+[2024.07.14-15.23.43:966][399]LogSavePackage: Moving '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Saved/BP_ThirdPersonCharacter_Auto4882F9BCB409F3F2C27A3588C985BFD21.tmp' to '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4.uasset'
+[2024.07.14-15.23.43:968][399]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Sfx/switch-1] ([1] browsable assets)...
+[2024.07.14-15.23.43:972][399]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Sfx/switch-1.switch-1]
+[2024.07.14-15.23.43:972][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Sfx/switch-1]
+[2024.07.14-15.23.43:975][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Sfx/switch-1_Auto4
+[2024.07.14-15.23.43:976][399]LogSavePackage: Moving '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Saved/switch-1_Auto4FE78D3D14BC96E28F523D181451330E9.tmp' to '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Saved/Autosaves/Game/Audio/Sfx/switch-1_Auto4.uasset'
+[2024.07.14-15.23.43:976][399]LogFileHelpers: Auto-saving content packages took 0.083
+[2024.07.14-15.27.35:061][ 93]LogDerivedDataCache: C:/Users/jakeh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.201 and deleted 0 files with total size 0 MiB and 3 empty folders. Scanned 1129 files in 1859 folders with total size 91 MiB.
+[2024.07.14-15.30.31:805][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.14-15.30.31:878][220]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.14-15.30.31:879][220]LogSavePackage: Moving '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Saved/BP_ThirdPersonCharacter642C0E364BDFDDBE230E80B1F43D9AC4.tmp' to '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.14-15.30.31:889][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 2.11 sec)
+[2024.07.14-15.30.31:896][220]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.14-15.30.31:896][220]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.14-15.30.35:973][463]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.14-15.30.35:978][463]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.14-15.30.35:979][463]LogWorldPartition: Display: GenerateStreaming started...
+[2024.07.14-15.30.35:979][463]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.07.14-15.30.35:979][463]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 767 us)
+[2024.07.14-15.30.35:979][463]LogWorldPartition: Display: GenerateStreaming took 130 us (total: 4 ms)
+[2024.07.14-15.30.35:979][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.14-15.30.35:979][463]PIE: New page: PIE session: ThirdPersonMap (14 Jul 2024, 17:30:35)
+[2024.07.14-15.30.35:979][463]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.07.14-15.30.35:982][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003516s)
+[2024.07.14-15.30.35:982][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003551s)
+[2024.07.14-15.30.35:982][463]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.14-15.30.35:982][463]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.14-15.30.35:983][463]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.07.14-15.30.35:983][463]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.14-15.30.35:983][463]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.14-15.30.35:983][463]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.07.14-15.30.35:984][463]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.07.14-15.30.35:984][463]LogWorldPartition: Display: WorldPartition initialize took 822 us (total: 271 ms)
+[2024.07.14-15.30.35:984][463]LogPlayLevel: PIE: World Init took: (0.001838s)
+[2024.07.14-15.30.36:003][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.07.14-15.30.36:009][463]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.07.14-15.30.36:009][463]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.14-15.30.36:009][463]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.14-15.30.36:009][463]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.14-15.30.36:009][463]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.14-15.30.36:009][463]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.14-15.30.36:009][463]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.14-15.30.36:009][463]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.14-15.30.36:009][463]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.14-15.30.36:010][463]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.14-15.30.36:010][463]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.14-15.30.36:010][463]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.14-15.30.36:012][463]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.14-15.30.36:030][463]LogAudioMixer: Display: Using Audio Hardware Device ASUS MX299 (NVIDIA High Definition Audio)
+[2024.07.14-15.30.36:031][463]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.14-15.30.36:031][463]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.14-15.30.36:031][463]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.14-15.30.36:031][463]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.07.14-15.30.36:031][463]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.07.14-15.30.36:033][463]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.07.14-15.30.36:033][463]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.07.14-15.30.36:033][463]LogInit: FAudioDevice initialized with ID 24.
+[2024.07.14-15.30.36:033][463]LogAudio: Display: Audio Device (ID: 24) registered with world 'ThirdPersonMap'.
+[2024.07.14-15.30.36:033][463]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.07.14-15.30.36:039][463]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.14-15.30.36:041][463]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.07.14-16.30.36
+[2024.07.14-15.30.36:041][463]LogWorld: Bringing up level for play took: 0.001646
+[2024.07.14-15.30.36:044][463]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.07.14-15.30.36:047][463]PIE: Server logged in
+[2024.07.14-15.30.36:048][463]PIE: Play in editor total start time 0.071 seconds.
+[2024.07.14-15.30.38:454][602]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Light02_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.07.14-15.30.39:720][678]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Light02_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.07.14-15.30.42:069][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.14-15.30.42:069][817]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.07.14-15.30.42:069][817]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.14-15.30.42:069][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.14-15.30.42:069][817]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.07.14-15.30.42:074][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.14-15.30.42:078][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.14-15.30.42:101][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.14-15.30.42:102][817]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.07.14-15.30.42:102][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.07.14-15.30.42:104][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.07.14-15.30.42:110][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.07.14-15.30.42:158][818]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.07.14-15.31.51:956][329]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.07.14-15.31.51:965][329]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.07.14-15.31.51:978][330]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.07.14-15.31.59:070][756]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Crouch
+[2024.07.14-15.31.59:071][756]LogContentBrowser: End creating deferred item NewInputAction
+[2024.07.14-15.32.00:927][866]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/ThirdPerson/Input/Actions/IA_Crouch.IA_Crouch
+[2024.07.14-15.34.15:321][829]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.14-15.34.15:325][829]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.14-15.34.15:326][829]LogWorldPartition: Display: GenerateStreaming started...
+[2024.07.14-15.34.15:326][829]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.07.14-15.34.15:327][829]LogWorldPartition: Display: GetPartitionedActors took 8 us (total: 776 us)
+[2024.07.14-15.34.15:327][829]LogWorldPartition: Display: GenerateStreaming took 145 us (total: 4 ms)
+[2024.07.14-15.34.15:327][829]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.07.14-15.34.15:327][829]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2024.07.14-15.34.15:450][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.07.14-15.34.15:461][829]LogPlayLevel: PlayLevel: Blueprint regeneration took 133 ms (1 blueprints)
+[2024.07.14-15.34.15:461][829]PIE: New page: PIE session: ThirdPersonMap (14 Jul 2024, 17:34:15)
+[2024.07.14-15.34.15:461][829]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.07.14-15.34.15:464][829]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003554s)
+[2024.07.14-15.34.15:464][829]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003588s)
+[2024.07.14-15.34.15:464][829]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.14-15.34.15:465][829]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.14-15.34.15:465][829]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.07.14-15.34.15:465][829]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.14-15.34.15:465][829]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.14-15.34.15:465][829]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.07.14-15.34.15:466][829]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.07.14-15.34.15:466][829]LogWorldPartition: Display: WorldPartition initialize took 779 us (total: 271 ms)
+[2024.07.14-15.34.15:466][829]LogPlayLevel: PIE: World Init took: (0.001785s)
+[2024.07.14-15.34.15:485][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.07.14-15.34.15:487][829]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.07.14-15.34.15:487][829]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.14-15.34.15:487][829]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.14-15.34.15:487][829]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.14-15.34.15:487][829]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.14-15.34.15:487][829]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.14-15.34.15:487][829]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.14-15.34.15:487][829]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.14-15.34.15:487][829]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.14-15.34.15:487][829]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.14-15.34.15:487][829]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.14-15.34.15:487][829]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.14-15.34.15:489][829]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.14-15.34.15:507][829]LogAudioMixer: Display: Using Audio Hardware Device ASUS MX299 (NVIDIA High Definition Audio)
+[2024.07.14-15.34.15:507][829]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.14-15.34.15:507][829]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.14-15.34.15:507][829]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.14-15.34.15:508][829]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.07.14-15.34.15:508][829]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.07.14-15.34.15:510][829]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.07.14-15.34.15:510][829]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.07.14-15.34.15:510][829]LogInit: FAudioDevice initialized with ID 25.
+[2024.07.14-15.34.15:510][829]LogAudio: Display: Audio Device (ID: 25) registered with world 'ThirdPersonMap'.
+[2024.07.14-15.34.15:510][829]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.07.14-15.34.15:562][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.14-15.34.15:562][829]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.14-15.34.15:565][829]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.07.14-16.34.15
+[2024.07.14-15.34.15:565][829]LogWorld: Bringing up level for play took: 0.002194
+[2024.07.14-15.34.15:567][829]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.07.14-15.34.15:574][829]PIE: Server logged in
+[2024.07.14-15.34.15:574][829]PIE: Play in editor total start time 0.249 seconds.
+[2024.07.14-15.34.15:608][829]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.07.14-15.34.22:973][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.14-15.34.22:973][261]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.07.14-15.34.22:973][261]LogSlate: Window 'UnrealHorror Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.07.14-15.34.22:981][261]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.14-15.34.22:982][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.14-15.34.22:982][261]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.07.14-15.34.22:984][261]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.14-15.34.22:988][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.14-15.34.23:010][261]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.07.14-15.34.23:012][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.07.14-15.34.23:013][261]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.07.14-15.34.23:020][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.07.14-15.34.23:056][262]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.07.14-15.36.24:775][467]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2024.07.14-15.37.02:242][669]Cmd: TRANSACTION UNDO
+[2024.07.14-15.37.02:242][669]LogEditorTransaction: Undo Insert Child
+[2024.07.14-15.37.02:777][680]Cmd: TRANSACTION UNDO
+[2024.07.14-15.37.02:777][680]LogEditorTransaction: Undo Set Class
+[2024.07.14-15.37.04:194][760]Cmd: TRANSACTION UNDO
+[2024.07.14-15.37.04:194][760]LogEditorTransaction: Undo Add Child
+[2024.07.14-15.37.43:901][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.07.14-15.37.43:907][768]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY_Auto5
+[2024.07.14-15.37.43:907][768]LogSavePackage: Moving '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Saved/DXUWD12MD3HRWVVXX076BY_Auto5B8E12E2442DFCF18CB34C19A07CE8238.tmp' to '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY_Auto5.uasset'
+[2024.07.14-15.37.43:908][768]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.031
+[2024.07.14-15.37.43:908][768]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.031
+[2024.07.14-15.37.43:909][768]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.07.14-15.37.44:022][768]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.07.14-15.37.44:022][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.07.14-15.37.44:036][768]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5
+[2024.07.14-15.37.44:036][768]LogSavePackage: Moving '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Saved/BP_ThirdPersonCharacter_Auto5388C6F074345117460DA50966E675E2D.tmp' to '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5.uasset'
+[2024.07.14-15.37.44:037][768]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Input/IMC_Default] ([1] browsable assets)...
+[2024.07.14-15.37.44:037][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Input/IMC_Default]
+[2024.07.14-15.37.44:039][768]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Input/IMC_Default_Auto5
+[2024.07.14-15.37.44:039][768]LogSavePackage: Moving '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Saved/IMC_Default_Auto509C81A694AF0C0BB2859649C4318872C.tmp' to '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Saved/Autosaves/Game/ThirdPerson/Input/IMC_Default_Auto5.uasset'
+[2024.07.14-15.37.44:040][768]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Sfx/switch-1] ([1] browsable assets)...
+[2024.07.14-15.37.44:040][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Sfx/switch-1]
+[2024.07.14-15.37.44:042][768]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/Sfx/switch-1_Auto5
+[2024.07.14-15.37.44:042][768]LogSavePackage: Moving '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Saved/switch-1_Auto5790EBB7344A803BFF08C5EAACB603982.tmp' to '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Saved/Autosaves/Game/Audio/Sfx/switch-1_Auto5.uasset'
+[2024.07.14-15.37.44:043][768]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Input/Actions/IA_Crouch] ([1] browsable assets)...
+[2024.07.14-15.37.44:043][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Input/Actions/IA_Crouch]
+[2024.07.14-15.37.44:044][768]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Input/Actions/IA_Crouch_Auto5
+[2024.07.14-15.37.44:044][768]LogSavePackage: Moving '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Saved/IA_Crouch_Auto5355D50F3462E8B1DCB5DFAA7A08C39D7.tmp' to '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Saved/Autosaves/Game/ThirdPerson/Input/Actions/IA_Crouch_Auto5.uasset'
+[2024.07.14-15.37.44:045][768]LogFileHelpers: Auto-saving content packages took 0.136
+[2024.07.14-15.37.58:833][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.14-15.37.58:897][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Input/IMC_Default" FILE="../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Content/ThirdPerson/Input/IMC_Default.uasset" SILENT=true
+[2024.07.14-15.37.58:899][813]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/IMC_Default
+[2024.07.14-15.37.58:900][813]LogSavePackage: Moving '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Saved/IMC_Default955C5A4144E10657EF83B3BF0C6BC3FD.tmp' to '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Content/ThirdPerson/Input/IMC_Default.uasset'
+[2024.07.14-15.37.58:909][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 2.18 sec)
+[2024.07.14-15.37.58:915][813]AssetCheck: New page: Asset Save: IMC_Default
+[2024.07.14-15.37.58:915][813]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/ThirdPerson/Input/IMC_Default.IMC_Default
+[2024.07.14-15.40.08:406][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.14-15.40.08:523][955]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.14-15.40.08:524][955]LogSavePackage: Moving '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Saved/BP_ThirdPersonCharacterCF38322D45931571593E4BB45CADCD2C.tmp' to '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.14-15.40.08:532][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 2.31 sec)
+[2024.07.14-15.40.08:539][955]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.14-15.40.08:539][955]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.14-15.40.13:858][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.14-15.40.13:930][266]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.14-15.40.13:930][266]LogSavePackage: Moving '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Saved/BP_ThirdPersonCharacterC9FB44EE4DC6419EE49C809C49CD0B4E.tmp' to '../../../../../../Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.14-15.40.13:938][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 2.39 sec)
+[2024.07.14-15.40.13:944][266]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2024.07.14-15.40.13:944][266]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.14-15.40.17:441][476]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.14-15.40.17:445][476]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.14-15.40.17:446][476]LogWorldPartition: Display: GenerateStreaming started...
+[2024.07.14-15.40.17:446][476]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.07.14-15.40.17:446][476]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 783 us)
+[2024.07.14-15.40.17:446][476]LogWorldPartition: Display: GenerateStreaming took 128 us (total: 4 ms)
+[2024.07.14-15.40.17:446][476]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.07.14-15.40.17:448][476]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2024.07.14-15.40.17:590][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.07.14-15.40.17:597][476]LogPlayLevel: PlayLevel: Blueprint regeneration took 149 ms (1 blueprints)
+[2024.07.14-15.40.17:597][476]PIE: New page: PIE session: ThirdPersonMap (14 Jul 2024, 17:40:17)
+[2024.07.14-15.40.17:597][476]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.07.14-15.40.17:601][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003561s)
+[2024.07.14-15.40.17:601][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003605s)
+[2024.07.14-15.40.17:601][476]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.14-15.40.17:601][476]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.14-15.40.17:601][476]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.07.14-15.40.17:602][476]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.14-15.40.17:602][476]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.14-15.40.17:602][476]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.07.14-15.40.17:602][476]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.07.14-15.40.17:603][476]LogWorldPartition: Display: WorldPartition initialize took 815 us (total: 272 ms)
+[2024.07.14-15.40.17:603][476]LogPlayLevel: PIE: World Init took: (0.001801s)
+[2024.07.14-15.40.17:623][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.07.14-15.40.17:625][476]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.07.14-15.40.17:625][476]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.14-15.40.17:625][476]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.14-15.40.17:625][476]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.14-15.40.17:625][476]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.14-15.40.17:625][476]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.14-15.40.17:625][476]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.14-15.40.17:625][476]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.14-15.40.17:625][476]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.14-15.40.17:625][476]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.14-15.40.17:625][476]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.14-15.40.17:625][476]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.14-15.40.17:628][476]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.14-15.40.17:646][476]LogAudioMixer: Display: Using Audio Hardware Device ASUS MX299 (NVIDIA High Definition Audio)
+[2024.07.14-15.40.17:646][476]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.14-15.40.17:646][476]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.14-15.40.17:646][476]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.14-15.40.17:648][476]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.07.14-15.40.17:648][476]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.07.14-15.40.17:649][476]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.07.14-15.40.17:649][476]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.07.14-15.40.17:649][476]LogInit: FAudioDevice initialized with ID 26.
+[2024.07.14-15.40.17:649][476]LogAudio: Display: Audio Device (ID: 26) registered with world 'ThirdPersonMap'.
+[2024.07.14-15.40.17:650][476]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.07.14-15.40.17:703][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.14-15.40.17:703][476]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.14-15.40.17:705][476]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2024.07.14-16.40.17
+[2024.07.14-15.40.17:705][476]LogWorld: Bringing up level for play took: 0.002111
+[2024.07.14-15.40.17:708][476]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.07.14-15.40.17:713][476]PIE: Server logged in
+[2024.07.14-15.40.17:713][476]PIE: Play in editor total start time 0.268 seconds.
+[2024.07.14-15.40.17:763][476]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.07.14-15.40.28:769][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.14-15.40.28:769][119]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.07.14-15.40.28:770][119]LogSlate: Window 'UnrealHorror Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.07.14-15.40.28:776][119]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.07.14-15.40.28:777][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.14-15.40.28:777][119]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.07.14-15.40.28:779][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.14-15.40.28:784][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.14-15.40.28:809][119]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.07.14-15.40.28:809][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.07.14-15.40.28:811][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.07.14-15.40.28:818][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.07.14-15.40.28:850][120]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.07.14-15.48.25:635][156]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.14-15.49.11:093][629]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\jakeh\Downloads\Male Crouch Pose.fbx)
+[2024.07.14-15.49.11:121][629]LogFbx: Loading FBX Scene from C:\Users\jakeh\Downloads\Male Crouch Pose.fbx
+[2024.07.14-15.49.11:144][629]LogFbx: FBX Scene Loaded Succesfully
+[2024.07.14-15.49.16:936][629]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.14-15.49.52:906][629]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.T_UELogo_Mask (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.07.14-15.49.52:909][629]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.T_ML_Rubber_Blue_01_D (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.07.14-15.49.52:915][629]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.T_ML_Aluminum01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.07.14-15.49.52:921][629]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.T_ML_Rubber_Blue_01_N (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.07.14-15.49.52:922][629]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.T_UE4_Mannequin_MAT_MASKA (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 124.145823 MB), EncodeSpeed: Fast
+[2024.07.14-15.49.52:922][629]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.T_ML_Aluminum01 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.07.14-15.49.52:953][629]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin) ...
+[2024.07.14-15.49.53:029][629]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.T_UE4_Mannequin__normals (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 381.562488 MB), EncodeSpeed: Fast
+[2024.07.14-15.49.53:157][629]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2024.07.14-15.49.53:215][629]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/Characters/Mannequin_UE4/Meshes/SK_Mannequin.SK_Mannequin
+[2024.07.14-15.49.53:217][629]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.14-15.49.53:220][629]LogTexture: Display: Building textures: /Game/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.T_UELogo_N_TGA (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.07.14-15.49.59:148][629]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.07.14-15.49.59:217][629]FBXImport: Error: Mesh contains root bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.07.14-15.49.59:217][629]FBXImport: Error: Import failed. 
+[2024.07.14-15.50.03:830][629]LogSlate: Window 'Message' being destroyed
+[2024.07.14-15.50.03:838][629]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\jakeh\Downloads\Male Crouch Pose.fbx'. Failed to create asset '/Game/Animations/Male_Crouch_Pose'.
+Please see Output Log for details.
+[2024.07.14-15.50.03:839][629]LogAssetTools: Warning: Failed to import 'C:\Users\jakeh\Downloads\Male Crouch Pose.fbx'. Failed to create asset '/Game/Animations/Male_Crouch_Pose'.
+Please see Output Log for details.
+[2024.07.14-15.50.03:852][629]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\jakeh\Downloads\Sneak Walk.fbx)
+[2024.07.14-15.50.03:857][629]LogFbx: Loading FBX Scene from C:\Users\jakeh\Downloads\Sneak Walk.fbx
+[2024.07.14-15.50.03:873][629]LogFbx: FBX Scene Loaded Succesfully
+[2024.07.14-15.50.03:875][629]FBXImport: Error: Mesh contains root bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.07.14-15.50.03:875][629]FBXImport: Error: Import failed. 
+[2024.07.14-15.50.05:483][629]LogSlate: Window 'Message' being destroyed
+[2024.07.14-15.50.05:490][629]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\jakeh\Downloads\Sneak Walk.fbx'. Failed to create asset '/Game/Animations/Sneak_Walk'.
+Please see Output Log for details.
+[2024.07.14-15.50.05:490][629]LogAssetTools: Warning: Failed to import 'C:\Users\jakeh\Downloads\Sneak Walk.fbx'. Failed to create asset '/Game/Animations/Sneak_Walk'.
+Please see Output Log for details.
+[2024.07.14-15.50.05:499][629]LogShaderCompilers: Display: ================================================
+[2024.07.14-15.50.05:499][629]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.14-15.50.05:499][629]LogShaderCompilers: Display: Total job queries 6,938, among them cache hits 2 (0.03%)
+[2024.07.14-15.50.05:499][629]LogShaderCompilers: Display: Tracking 6,936 distinct input hashes that result in 5,151 distinct outputs (74.26%)
+[2024.07.14-15.50.05:499][629]LogShaderCompilers: Display: RAM used: 102.97 MiB of 819.20 MiB budget. Usage: 12.57%
+[2024.07.14-15.50.05:499][629]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.14-15.50.05:500][629]LogShaderCompilers: Display: Shaders Compiled: 6,936
+[2024.07.14-15.50.05:500][629]LogShaderCompilers: Display: Jobs assigned 6,936, completed 6,936 (100.00%)
+[2024.07.14-15.50.05:500][629]LogShaderCompilers: Display: Average time worker was idle: 45.32 s
+[2024.07.14-15.50.05:500][629]LogShaderCompilers: Display: Time job spent in pending queue: average 212.47 s, longest 452.88 s
+[2024.07.14-15.50.05:500][629]LogShaderCompilers: Display: Job execution time: average 5.30 s, max 55.82 s
+[2024.07.14-15.50.05:500][629]LogShaderCompilers: Display: Job life time (pending + execution): average 217.77 s, max 453.08
+[2024.07.14-15.50.05:500][629]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 482.93 s
+[2024.07.14-15.50.05:500][629]LogShaderCompilers: Display: Jobs were issued in 817 batches (only local compilation was used), average 8.49 jobs/batch
+[2024.07.14-15.50.05:500][629]LogShaderCompilers: Display: Average processing rate: 14.36 jobs/sec
+[2024.07.14-15.50.05:500][629]LogShaderCompilers: Display: Total thread time: 3,686.348 s
+[2024.07.14-15.50.05:500][629]LogShaderCompilers: Display: Total thread preprocess time: 95.345 s
+[2024.07.14-15.50.05:500][629]LogShaderCompilers: Display: Percentage time preprocessing: 2.59%
+[2024.07.14-15.50.05:500][629]LogShaderCompilers: Display: Effective parallelization: 7.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.07.14-15.50.05:502][629]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.07.14-15.50.05:502][629]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    6 times, average 23.03 sec, max 50.15 sec, min 2.07 sec)
+[2024.07.14-15.50.05:502][629]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    2 times, average 8.98 sec, max 10.33 sec, min 7.63 sec)
+[2024.07.14-15.50.05:502][629]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.82 sec, max 6.19 sec, min 3.47 sec)
+[2024.07.14-15.50.05:503][629]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 4.73 sec, max 8.18 sec, min 1.73 sec)
+[2024.07.14-15.50.05:503][629]LogShaderCompilers: Display:                                    FRayTracingReflectionsRGS (compiled   48 times, average 2.87 sec, max 3.84 sec, min 2.34 sec)
+[2024.07.14-15.50.05:503][629]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.07.14-15.50.05:503][629]LogShaderCompilers: Display:                                             FDeferredLightPS - 6.33% of total time (compiled  150 times, average 1.56 sec, max 2.00 sec, min 1.32 sec)
+[2024.07.14-15.50.05:503][629]LogShaderCompilers: Display:                                                FOcclusionRGS - 4.29% of total time (compiled  192 times, average 0.82 sec, max 1.45 sec, min 0.51 sec)
+[2024.07.14-15.50.05:503][629]LogShaderCompilers: Display:                 FLumenScreenProbeGatherHardwareRayTracingRGS - 4.09% of total time (compiled   64 times, average 2.35 sec, max 4.53 sec, min 0.98 sec)
+[2024.07.14-15.50.05:503][629]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 3.75% of total time (compiled    6 times, average 23.03 sec, max 50.15 sec, min 2.07 sec)
+[2024.07.14-15.50.05:503][629]LogShaderCompilers: Display:                                    FRayTracingReflectionsRGS - 3.74% of total time (compiled   48 times, average 2.87 sec, max 3.84 sec, min 2.34 sec)
+[2024.07.14-15.50.05:503][629]LogShaderCompilers: Display: ================================================
+[2024.07.14-15.50.07:865][765]LogSlate: Window 'Message Log' being destroyed
+[2024.07.14-15.50.07:870][765]LogSlate: Window 'Message Log' being destroyed
+[2024.07.14-15.50.11:552][869]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\jakeh\Downloads\Sneak Walk.fbx)
+[2024.07.14-15.50.11:559][869]LogFbx: Loading FBX Scene from C:\Users\jakeh\Downloads\Sneak Walk.fbx
+[2024.07.14-15.50.11:581][869]LogFbx: FBX Scene Loaded Succesfully
+[2024.07.14-15.50.16:253][869]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.07.14-15.50.16:273][869]FBXImport: Error: Mesh contains root bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.07.14-15.50.16:273][869]FBXImport: Error: Import failed. 
+[2024.07.14-15.50.18:898][869]LogSlate: Window 'Message' being destroyed
+[2024.07.14-15.50.18:905][869]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\jakeh\Downloads\Sneak Walk.fbx'. Failed to create asset '/Game/Animations/Sneak_Walk'.
+Please see Output Log for details.
+[2024.07.14-15.50.18:906][869]LogAssetTools: Warning: Failed to import 'C:\Users\jakeh\Downloads\Sneak Walk.fbx'. Failed to create asset '/Game/Animations/Sneak_Walk'.
+Please see Output Log for details.
+[2024.07.14-15.50.18:906][869]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\jakeh\Downloads\Male Crouch Pose.fbx)
+[2024.07.14-15.50.18:913][869]LogFbx: Loading FBX Scene from C:\Users\jakeh\Downloads\Male Crouch Pose.fbx
+[2024.07.14-15.50.18:932][869]LogFbx: FBX Scene Loaded Succesfully
+[2024.07.14-15.50.18:934][869]FBXImport: Error: Mesh contains root bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.07.14-15.50.18:934][869]FBXImport: Error: Import failed. 
+[2024.07.14-15.50.21:748][869]LogSlate: Window 'Message' being destroyed
+[2024.07.14-15.50.21:756][869]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\jakeh\Downloads\Male Crouch Pose.fbx'. Failed to create asset '/Game/Animations/Male_Crouch_Pose'.
+Please see Output Log for details.
+[2024.07.14-15.50.21:756][869]LogAssetTools: Warning: Failed to import 'C:\Users\jakeh\Downloads\Male Crouch Pose.fbx'. Failed to create asset '/Game/Animations/Male_Crouch_Pose'.
+Please see Output Log for details.
+[2024.07.14-15.50.24:405][ 22]LogWindows: LaunchURL https://docs.unrealengine.com/5.2/en/WorkingWithContent/Importing/FBX/FbxErrors?utm_source=editor&utm_medium=docs&utm_campaign=msg_log#animation_couldnotfindroottrack
+[2024.07.14-15.51.49:524][353]LogSlate: Window 'Message Log' being destroyed
+[2024.07.14-15.51.49:530][353]LogSlate: Window 'Message Log' being destroyed
+[2024.07.14-15.53.24:927][679]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\jakeh\Downloads\Male Crouch Pose (1).fbx)
+[2024.07.14-15.53.24:933][679]LogFbx: Loading FBX Scene from C:\Users\jakeh\Downloads\Male Crouch Pose (1).fbx
+[2024.07.14-15.53.24:948][679]LogFbx: FBX Scene Loaded Succesfully
+[2024.07.14-15.53.29:907][679]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.07.14-15.53.29:945][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.07.14-15.53.29:955][679]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2024.07.14-15.53.30:272][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.07.14-15.53.30:274][679]FBXImport: Import was canceled. 
+[2024.07.14-15.53.30:335][679]LogAssetTools: The import task was canceled.
+[2024.07.14-15.53.32:434][741]LogSlate: Window 'Message Log' being destroyed
+[2024.07.14-15.53.32:441][741]LogSlate: Window 'Message Log' being destroyed
+[2024.07.14-15.53.38:180][781]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\jakeh\Downloads\Sneak Walk (1).fbx)
+[2024.07.14-15.53.38:186][781]LogFbx: Loading FBX Scene from C:\Users\jakeh\Downloads\Sneak Walk (1).fbx
+[2024.07.14-15.53.38:206][781]LogFbx: FBX Scene Loaded Succesfully
+[2024.07.14-15.53.43:436][781]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.07.14-15.53.43:456][781]FBXImport: Error: Mesh contains root bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.07.14-15.53.43:456][781]FBXImport: Error: Import failed. 
+[2024.07.14-15.53.44:876][781]LogSlate: Window 'Message' being destroyed
+[2024.07.14-15.53.44:883][781]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\jakeh\Downloads\Sneak Walk (1).fbx'. Failed to create asset '/Game/Animations/Sneak_Walk__1_'.
+Please see Output Log for details.
+[2024.07.14-15.53.44:883][781]LogAssetTools: Warning: Failed to import 'C:\Users\jakeh\Downloads\Sneak Walk (1).fbx'. Failed to create asset '/Game/Animations/Sneak_Walk__1_'.
+Please see Output Log for details.
+[2024.07.14-15.53.44:885][781]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\jakeh\Downloads\Male Crouch Pose (1).fbx)
+[2024.07.14-15.53.44:889][781]LogFbx: Loading FBX Scene from C:\Users\jakeh\Downloads\Male Crouch Pose (1).fbx
+[2024.07.14-15.53.44:903][781]LogFbx: FBX Scene Loaded Succesfully
+[2024.07.14-15.53.44:905][781]FBXImport: Error: Mesh contains root bone as root but animation doesn't contain the root track.
+Import failed. 
+[2024.07.14-15.53.44:905][781]FBXImport: Error: Import failed. 
+[2024.07.14-15.53.45:872][781]LogSlate: Window 'Message' being destroyed
+[2024.07.14-15.53.45:881][781]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\jakeh\Downloads\Male Crouch Pose (1).fbx'. Failed to create asset '/Game/Animations/Male_Crouch_Pose__1_'.
+Please see Output Log for details.
+[2024.07.14-15.53.45:881][781]LogAssetTools: Warning: Failed to import 'C:\Users\jakeh\Downloads\Male Crouch Pose (1).fbx'. Failed to create asset '/Game/Animations/Male_Crouch_Pose__1_'.
+Please see Output Log for details.
+[2024.07.14-15.53.47:464][873]LogSlate: Window 'Message Log' being destroyed
+[2024.07.14-15.53.47:472][873]LogSlate: Window 'Message Log' being destroyed
+[2024.07.14-15.54.09:252][990]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\jakeh\Downloads\Sneak Walk.fbx)
+[2024.07.14-15.54.09:322][990]LogFbx: Loading FBX Scene from C:\Users\jakeh\Downloads\Sneak Walk.fbx
+[2024.07.14-15.54.09:390][990]LogFbx: FBX Scene Loaded Succesfully
+[2024.07.14-15.54.13:975][990]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.07.14-15.54.13:998][990]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Ch36 : The relative matrices do not match
+[2024.07.14-15.54.13:998][990]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2024.07.14-15.54.13:998][990]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ch36
+[2024.07.14-15.54.13:998][990]LogFbx: Warning: Recreating bind pose succeeded.
+[2024.07.14-15.54.14:003][990]LogMaterial: Display: Material /Game/Animations/Ch36_Body.Ch36_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2024.07.14-15.54.14:366][990]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.07.14-15.54.14:444][990]LogTexture: Display: Building textures: /Game/Animations/Ch36_1001_Diffuse.Ch36_1001_Diffuse (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.07.14-15.54.14:765][990]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2024.07.14-15.54.14:766][990]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.07.14-15.54.14:803][990]LogTexture: Display: Building textures: /Game/Animations/Ch36_1001_Specular.Ch36_1001_Specular (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.07.14-15.54.14:946][990]LogEditorFactories: Display: Image imported as : TSF G8
+[2024.07.14-15.54.15:350][990]LogTexture: Display: Building textures: /Game/Animations/Ch36_1001_Glossiness.Ch36_1001_Glossiness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.07.14-15.54.15:414][990]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.07.14-15.54.15:592][990]LogFbx: Triangulating skeletal mesh Ch36
+[2024.07.14-15.54.16:028][990]LogTexture: Display: Building textures: /Game/Animations/Ch36_1001_Normal.Ch36_1001_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.07.14-15.54.16:545][990]LogFbx: Bones digested - 65  Depth of hierarchy - 12
+[2024.07.14-15.54.17:549][990]LogSkeletalMesh: Section 0: Material=0, 28880 triangles
+[2024.07.14-15.54.17:645][990]LogSkeletalMesh: Building Skeletal Mesh Sneak_Walk...
+[2024.07.14-15.54.17:685][990]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Sneak_Walk) ...
+[2024.07.14-15.54.18:331][990]LogSkeletalMesh: Built Skeletal Mesh [0.69s] /Game/Animations/Sneak_Walk.Sneak_Walk
+[2024.07.14-15.54.26:820][990]LogSlate: Window 'Message' being destroyed
+[2024.07.14-15.54.26:827][990]Message dialog closed, result: Yes, title: Message, text: FAILED TO MERGE BONES:
+
+ This could happen if significant hierarchical changes have been made
+e.g. inserting a bone between nodes.
+Would you like to regenerate the Skeleton from this mesh?
+
+***WARNING: THIS MAY INVALIDATE OR REQUIRE RECOMPRESSION OF ANIMATION DATA.***
+
+[2024.07.14-15.54.30:621][990]LogSlate: Window 'Message' being destroyed
+[2024.07.14-15.54.30:646][990]Message dialog closed, result: Yes, title: Message, text: Would you like to merge all SkeletalMeshes using this skeleton to ensure all bones are merged? This will require to load those SkeletalMeshes.
+[2024.07.14-15.54.32:914][990]LogSlate: Window 'Message' being destroyed
+[2024.07.14-15.54.32:921][990]Message dialog closed, result: Ok, title: Message, text: Failed to merge SkeletalMesh 'SK_Mannequin'.
+[2024.07.14-15.54.33:113][990]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.14-15.54.33:113][990]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display: ================================================
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display: Total job queries 6,972, among them cache hits 2 (0.03%)
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display: Tracking 6,970 distinct input hashes that result in 5,164 distinct outputs (74.09%)
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display: RAM used: 103.78 MiB of 819.20 MiB budget. Usage: 12.67%
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display: Shaders Compiled: 6,970
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display: Jobs assigned 6,970, completed 6,970 (100.00%)
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display: Average time worker was idle: 47.15 s
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display: Time job spent in pending queue: average 211.44 s, longest 452.88 s
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display: Job execution time: average 5.30 s, max 55.82 s
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display: Job life time (pending + execution): average 216.73 s, max 453.08
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 488.03 s
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display: Jobs were issued in 824 batches (only local compilation was used), average 8.46 jobs/batch
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display: Average processing rate: 14.28 jobs/sec
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display: Total thread time: 3,717.605 s
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display: Total thread preprocess time: 96.084 s
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display: Percentage time preprocessing: 2.58%
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display: Effective parallelization: 7.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    6 times, average 23.03 sec, max 50.15 sec, min 2.07 sec)
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    2 times, average 8.98 sec, max 10.33 sec, min 7.63 sec)
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.82 sec, max 6.19 sec, min 3.47 sec)
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 4.73 sec, max 8.18 sec, min 1.73 sec)
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display:                                    FRayTracingReflectionsRGS (compiled   48 times, average 2.87 sec, max 3.84 sec, min 2.34 sec)
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display:                                             FDeferredLightPS - 6.28% of total time (compiled  150 times, average 1.56 sec, max 2.00 sec, min 1.32 sec)
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display:                                                FOcclusionRGS - 4.25% of total time (compiled  192 times, average 0.82 sec, max 1.45 sec, min 0.51 sec)
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display:                 FLumenScreenProbeGatherHardwareRayTracingRGS - 4.05% of total time (compiled   64 times, average 2.35 sec, max 4.53 sec, min 0.98 sec)
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 3.72% of total time (compiled    6 times, average 23.03 sec, max 50.15 sec, min 2.07 sec)
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display:                                    FRayTracingReflectionsRGS - 3.70% of total time (compiled   48 times, average 2.87 sec, max 3.84 sec, min 2.34 sec)
+[2024.07.14-15.54.33:115][990]LogShaderCompilers: Display: ================================================
+[2024.07.14-15.54.33:152][990]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.07.14-15.54.33:152][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(0) Hips
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(1) Spine
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(2) Spine1
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(3) Spine2
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(4) Neck
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(5) Head
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(8) LeftArm
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(10) LeftHand
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(23) LeftHandRing1
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(24) LeftHandRing2
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(25) LeftHandRing3
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(26) LeftHandRing4
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(31) RightShoulder
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(32) RightArm
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(33) RightForeArm
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(34) RightHand
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(35) RightHandThumb1
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(36) RightHandThumb2
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(37) RightHandThumb3
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(38) RightHandThumb4
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(39) RightHandIndex1
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(40) RightHandIndex2
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(41) RightHandIndex3
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(42) RightHandIndex4
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(47) RightHandRing1
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(48) RightHandRing2
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(49) RightHandRing3
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(50) RightHandRing4
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(51) RightHandPinky1
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(52) RightHandPinky2
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(53) RightHandPinky3
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(54) RightHandPinky4
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(55) LeftUpLeg
+[2024.07.14-15.54.33:260][990]LogFbx: SortedLinks :(56) LeftLeg
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(57) LeftFoot
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(58) LeftToeBase
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(59) LeftToe_End
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(60) RightUpLeg
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(61) RightLeg
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(62) RightFoot
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(63) RightToeBase
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(64) RightToe_End
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(0) Hips
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(1) Spine
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(2) Spine1
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(3) Spine2
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(4) Neck
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(5) Head
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(8) LeftArm
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(10) LeftHand
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(23) LeftHandRing1
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(24) LeftHandRing2
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(25) LeftHandRing3
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(26) LeftHandRing4
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2024.07.14-15.54.33:261][990]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(31) RightShoulder
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(32) RightArm
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(33) RightForeArm
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(34) RightHand
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(35) RightHandThumb1
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(36) RightHandThumb2
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(37) RightHandThumb3
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(38) RightHandThumb4
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(39) RightHandIndex1
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(40) RightHandIndex2
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(41) RightHandIndex3
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(42) RightHandIndex4
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(47) RightHandRing1
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(48) RightHandRing2
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(49) RightHandRing3
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(50) RightHandRing4
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(51) RightHandPinky1
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(52) RightHandPinky2
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(53) RightHandPinky3
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(54) RightHandPinky4
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(55) LeftUpLeg
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(56) LeftLeg
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(57) LeftFoot
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(58) LeftToeBase
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(59) LeftToe_End
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(60) RightUpLeg
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(61) RightLeg
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(62) RightFoot
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(63) RightToeBase
+[2024.07.14-15.54.33:262][990]LogFbx: SortedLinks :(64) RightToe_End
+[2024.07.14-15.54.33:262][990]LogFbx: Parsing AnimStack Take 001
+[2024.07.14-15.54.33:262][990]LogFbx: Parsing AnimStack mixamo.com
+[2024.07.14-15.54.33:774][990]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Sneak_Walk_Anim_mixamo_com.Sneak_Walk_Anim_mixamo_com
+[2024.07.14-15.54.33:811][990]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Sneak_Walk) ...
+[2024.07.14-15.54.33:818][990]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Sneak_Walk_Anim_mixamo_com.Sneak_Walk_Anim_mixamo_com, at AnimationSequence/9d8a102c9e7acdf21ab9bfd8c3bc419cd8d399a9
+[2024.07.14-15.54.33:841][990]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.07.14-15.54.33:841][990]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig1:HeadTop_End  
+mixamorig1:LeftHandThumb4  
+mixamorig1:LeftHandIndex4  
+mixamorig1:LeftHandMiddle4  
+mixamorig1:LeftHandRing4  
+mixamorig1:LeftHandPinky4  
+mixamorig1:RightHandThumb4  
+mixamorig1:RightHandIndex4  
+mixamorig1:RightHandMiddle4  
+mixamorig1:RightHandRing4  
+mixamorig1:RightHandPinky4  
+mixamorig1:LeftToe_End  
+mixamorig1:RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2024.07.14-15.54.33:841][990]FBXImport: Error: Animation length 9.08 is not compatible with import frame-rate 60 fps (sub frame 0.8), animation has to be frame-border aligned. Either re-export animation or enable snap to closest frame boundary import option. 
+[2024.07.14-15.54.33:966][991]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.14-15.54.33:993][992]LoadErrors: Error: The Skeleton  SK_Mannequin_Skeleton is missing bones that SkeletalMesh  SK_Mannequin needs. They will be added now. Please save the Skeleton!
+[2024.07.14-15.54.34:667][ 24]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.14-15.54.35:798][ 89]LogSlate: Window 'Message Log' being destroyed
+[2024.07.14-15.54.35:805][ 89]LogSlate: Window 'Message Log' being destroyed
+[2024.07.14-15.54.49:269][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.07.14-15.54.50:646][764]LogSlate: Window 'Delete Assets' being destroyed
+[2024.07.14-15.54.50:700][764]LogUObjectGlobals: Force Deleting 8 Package(s):
+	Asset Name: /Game/Animations/Ch36_1001_Diffuse.Ch36_1001_Diffuse
+	Asset Type: Texture2D
+	Asset Name: /Game/Animations/Ch36_1001_Glossiness.Ch36_1001_Glossiness
+	Asset Type: Texture2D
+	Asset Name: /Game/Animations/Ch36_1001_Normal.Ch36_1001_Normal
+	Asset Type: Texture2D
+	Asset Name: /Game/Animations/Ch36_1001_Specular.Ch36_1001_Specular
+	Asset Type: Texture2D
+	Asset Name: /Game/Animations/Ch36_Body.Ch36_Body
+	Asset Type: Material
+	Asset Name: /Game/Animations/Sneak_Walk.Sneak_Walk
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Animations/Sneak_Walk_PhysicsAsset.Sneak_Walk_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Animations/Sneak_Walk_Anim_mixamo_com.Sneak_Walk_Anim_mixamo_com
+	Asset Type: AnimSequence
+[2024.07.14-15.54.50:947][764]LogMaterial: Warning: [AssetLog] /Game/Animations/Ch36_Body.Ch36_Body: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.07.14-15.54.50:947][764]LogMaterial: Warning: Ch36_Body: Requesting an invalid TextureIndex! (3 / 0)
+[2024.07.14-15.54.50:949][764]LogMaterial: Warning: [AssetLog] /Game/Animations/Ch36_Body.Ch36_Body: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.07.14-15.54.50:950][764]LogMaterial: Warning: [AssetLog] /Game/Animations/Ch36_Body.Ch36_Body: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.07.14-15.54.50:951][764]LogMaterial: Warning: [AssetLog] /Game/Animations/Ch36_Body.Ch36_Body: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.07.14-15.54.51:245][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.07.14-15.54.51:276][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.07.14-15.54.51:304][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.07.14-15.55.05:337][860]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\jakeh\Downloads\Sneak Walk (2).fbx)
+[2024.07.14-15.55.05:342][860]LogFbx: Loading FBX Scene from C:\Users\jakeh\Downloads\Sneak Walk (2).fbx
+[2024.07.14-15.55.05:360][860]LogFbx: FBX Scene Loaded Succesfully
+[2024.07.14-15.55.12:448][860]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.07.14-15.55.12:469][860]LogFbx: SortedLinks :(0) Hips
+[2024.07.14-15.55.12:469][860]LogFbx: SortedLinks :(1) Spine
+[2024.07.14-15.55.12:469][860]LogFbx: SortedLinks :(2) Spine1
+[2024.07.14-15.55.12:469][860]LogFbx: SortedLinks :(3) Spine2
+[2024.07.14-15.55.12:469][860]LogFbx: SortedLinks :(4) Neck
+[2024.07.14-15.55.12:469][860]LogFbx: SortedLinks :(5) Head
+[2024.07.14-15.55.12:469][860]LogFbx: SortedLinks :(6) HeadTop_End
+[2024.07.14-15.55.12:469][860]LogFbx: SortedLinks :(7) LeftShoulder
+[2024.07.14-15.55.12:469][860]LogFbx: SortedLinks :(8) LeftArm
+[2024.07.14-15.55.12:469][860]LogFbx: SortedLinks :(9) LeftForeArm
+[2024.07.14-15.55.12:469][860]LogFbx: SortedLinks :(10) LeftHand
+[2024.07.14-15.55.12:469][860]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2024.07.14-15.55.12:469][860]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2024.07.14-15.55.12:469][860]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2024.07.14-15.55.12:469][860]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2024.07.14-15.55.12:469][860]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2024.07.14-15.55.12:469][860]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2024.07.14-15.55.12:469][860]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(23) LeftHandRing1
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(24) LeftHandRing2
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(25) LeftHandRing3
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(26) LeftHandRing4
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(31) RightShoulder
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(32) RightArm
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(33) RightForeArm
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(34) RightHand
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(35) RightHandThumb1
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(36) RightHandThumb2
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(37) RightHandThumb3
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(38) RightHandThumb4
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(39) RightHandIndex1
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(40) RightHandIndex2
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(41) RightHandIndex3
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(42) RightHandIndex4
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(47) RightHandRing1
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(48) RightHandRing2
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(49) RightHandRing3
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(50) RightHandRing4
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(51) RightHandPinky1
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(52) RightHandPinky2
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(53) RightHandPinky3
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(54) RightHandPinky4
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(55) LeftUpLeg
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(56) LeftLeg
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(57) LeftFoot
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(58) LeftToeBase
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(59) LeftToe_End
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(60) RightUpLeg
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(61) RightLeg
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(62) RightFoot
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(63) RightToeBase
+[2024.07.14-15.55.12:470][860]LogFbx: SortedLinks :(64) RightToe_End
+[2024.07.14-15.55.12:470][860]LogFbx: Parsing AnimStack mixamo.com
+[2024.07.14-15.55.12:806][860]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Sneak_Walk__2_.Sneak_Walk__2_
+[2024.07.14-15.55.12:849][860]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/Sneak_Walk__2_.Sneak_Walk__2_
+[2024.07.14-15.55.12:886][862]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/Sneak_Walk__2_.Sneak_Walk__2_, at AnimationSequence/870197a922e8feed844bdfa83cf53362dcdeeb70
+[2024.07.14-15.55.16:135][ 53]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animations/Sneak_Walk__2_.Sneak_Walk__2_
+[2024.07.14-15.55.16:178][ 53]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.14-15.55.16:178][ 53]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.14-15.55.16:259][ 53]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2024.07.14-15.55.16:285][ 53]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.07.14-15.55.16:540][ 53]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.14-15.55.16:540][ 53]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.14-15.55.16:663][ 53]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.14-15.55.16:690][ 53]LogSlate: Took 0.006465 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.07.14-15.55.16:704][ 53]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2024.07.14-15.55.16:712][ 53]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.14-15.55.16:712][ 53]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.14-15.55.16:741][ 53]LogViewport: Scene viewport resized to 1143x530, mode Windowed.
+[2024.07.14-15.55.16:765][ 53]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.07.14-15.55.19:804][211]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.07.14-15.55.19:804][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.14-15.55.19:813][211]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.07.14-15.55.19:813][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.14-15.55.19:857][211]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.07.14-15.55.19:857][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.14-15.55.23:499][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.07.14-15.55.24:830][410]LogSlate: Window 'Delete Assets' being destroyed
+[2024.07.14-15.55.24:892][410]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Animations/Sneak_Walk__2_.Sneak_Walk__2_
+	Asset Type: AnimSequence
+[2024.07.14-15.55.25:261][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.07.14-15.55.25:289][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.07.14-15.55.25:316][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
