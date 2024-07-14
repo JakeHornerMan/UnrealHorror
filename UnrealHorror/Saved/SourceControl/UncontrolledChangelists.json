@@ -8,7 +8,13 @@
 				"C:/Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset",
 				"C:/Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
-				"C:/Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset"
+				"C:/Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset",
+				"C:/Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Content/ThirdPerson/Input/Actions/IA_Flashlight.uasset",
+				"C:/Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Content/Audio/Sfx/light-switch-81967.uasset",
+				"C:/Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Content/Audio/Sfx/flashlight_switch.uasset",
+				"C:/Users/jakeh/Documents/GitHub/UnrealHorror/UnrealHorror/Content/Audio/Sfx/FlashlightSwitch.uasset"
 			]
 		}
 	]
